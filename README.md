@@ -1,17 +1,17 @@
-# Hi, I'm XScaRS 👋
+### Hey there! 👋
 
-🌙 **Night coder** | Python beginner, future builder
+I'm **XScaRS**, a beginner Python developer who loves vibe coding and building useful tools for PC users.  
+I strive to make working on a computer smoother, easier, and more enjoyable for everyone.
 
-I'm a beginner Python developer. I love vibe coding and helping people solve their problems, so that working on a computer becomes better and more enjoyable.
+I like thinking outside the box and solving challenging problems.
 
-##  What I like
+My main stack is **Python**, and I'm obsessed with computers, hardware, and everything tech-related.
 
-I love computers and everything related to them. I enjoy creating and coming up with something new and unusual.
+I try to excel at everything I do — it doesn't always work out, but I enjoy the process and keep moving forward.
 
-##  Creativity
+**Fun Facts:**
 
-I'm also into writing songs and music.
-
-##  In general
-
-I try to succeed at everything, even though it doesn't always work out. But I'll keep doing what I love and stay happy.
+* I write my own music and song lyrics
+* I love coming up with unique and unconventional project ideas
+* Hardware, PC setups, and OS tweaking are my absolute passion
+* Main goal: Keep doing what I love, help people, and stay happy
